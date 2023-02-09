@@ -1,8 +1,8 @@
 package com.obinna.productservices;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.obinna.productservices.dto.ProductRequest;
 import com.obinna.productservices.repository.ProductRepository;
+import com.obinna.productservices.dto.ProductRequest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
