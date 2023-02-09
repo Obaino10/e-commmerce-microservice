@@ -1,0 +1,10 @@
+com/obinna/productservices/dto/ProductResponse.class
+com/obinna/productservices/service/ProductService.class
+com/obinna/productservices/dto/ProductResponse$ProductResponseBuilder.class
+com/obinna/productservices/dto/ProductRequest.class
+com/obinna/productservices/controller/ProductController.class
+com/obinna/productservices/model/Product.class
+com/obinna/productservices/ProductServicesApplication.class
+com/obinna/productservices/repository/ProductRepository.class
+com/obinna/productservices/model/Product$ProductBuilder.class
+com/obinna/productservices/dto/ProductRequest$ProductRequestBuilder.class

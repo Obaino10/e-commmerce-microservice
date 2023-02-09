@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.obinna.productservices.ProductServicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.651 s - in com.obinna.productservices.ProductServicesApplicationTests

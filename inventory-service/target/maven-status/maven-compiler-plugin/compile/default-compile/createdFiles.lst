@@ -1,0 +1,7 @@
+com/obinna/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/obinna/inventoryservice/controller/InventoryController.class
+com/obinna/inventoryservice/InventoryServiceApplication.class
+com/obinna/inventoryservice/dto/InventoryResponse.class
+com/obinna/inventoryservice/service/InventoryService.class
+com/obinna/inventoryservice/model/Inventory.class
+com/obinna/inventoryservice/repository/InventoryRepository.class
