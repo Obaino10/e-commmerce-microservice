@@ -3,6 +3,7 @@ package com.obinna.inventoryservice.service;
 import com.obinna.inventoryservice.dto.InventoryResponse;
 import com.obinna.inventoryservice.repository.InventoryRepository;
 import lombok.RequiredArgsConstructor;
+import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -17,6 +18,7 @@ public class InventoryService {
     private final InventoryRepository inventoryRepository;
 
     @Transactional(readOnly = true)
+    @SneakyThrows
     public List<InventoryResponse> isInStock(List<String> skuCode) throws InterruptedException {
         log.info("wait started");
         Thread.sleep(1000);
